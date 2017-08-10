@@ -1,0 +1,13 @@
+{
+	"name": "Sample Turffle Project",
+	"version": "0.1",
+	"description": "Should be replaced with appropriate one",
+	"author": "Zerion <inbox@zerion.io>",
+	"license": "GNU GENERAL PUBLIC LICENSE",
+	"private": true,
+	
+    "dependencies": {
+    	"ethereumjs-testrpc": "^4.0.1",
+    	"truffle": "^3.4.7"
+	}
+}

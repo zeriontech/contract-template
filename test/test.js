@@ -1,5 +1,5 @@
-var Token = artifacts.require("./Token.sol");
+var Contract = artifacts.require("./Contract.sol");
 
-contract('Token', function(accounts) {
+contract('Contract', function(accounts) {
 
 });

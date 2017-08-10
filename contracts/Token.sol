@@ -1,5 +1,5 @@
 pragma solidity ^0.4.8;
 
-contract Token {
+contract Contract {
 
 }

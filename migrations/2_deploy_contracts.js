@@ -1,5 +1,5 @@
-var Token = artifacts.require("./Token.sol");
+var Contract = artifacts.require("./Contract.sol");
 
 module.exports = function(deployer) {
-  deployer.deploy(Token);
+  deployer.deploy(Contract);
 };

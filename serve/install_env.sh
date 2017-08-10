@@ -1,2 +1,2 @@
-npm install -g truffle
-npm install -g ethereumjs-testrpc
+yarn add truffle
+yarn add ethereumjs-testrpc

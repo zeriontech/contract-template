@@ -5,21 +5,18 @@ Clean contract template with right environment.
 This repository uses [Truffle](http://truffleframework.com/) to compile, test and deploy smart contracts. 
 
 Also running node with active json-rpc is required. For testing puproses we suggest using [TestRPC](https://github.com/ethereumjs/testrpc).
-We strongly recommend you to use latest **node** and **npm** versions.<br>
+We strongly recommend you to use latest **node**, **npm**, and **yarn** versions.<br>
 
-All environment can be installed by command:
+The environment can be set up by command:
 `./serve/install_env.sh`
 
 For more information about Truffle visit [https://truffle.readthedocs.io/en/latest/](https://truffle.readthedocs.io/en/latest/).
 
 ## Usage
-In separate terminal window run — `testrpc`. This will launch up testrpc.
 
-`./serve/test_app_local` - compile, migrate and test all contracts or you can do it in separate commands:
+`./serve/run_testrpc.sh` - run testrpc
+`./serve/run_tests.sh` - run tests
 
-* `truffle compile` - compile contracts
-* `truffle migrate` - migrate contracts
-* `truffle test` - run tests
 
 ## Development IDE
 
