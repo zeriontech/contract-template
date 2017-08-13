@@ -8,11 +8,11 @@ Also running node with active json-rpc is required. For testing puproses we sugg
 We strongly recommend you to use latest **node**, **npm**, and **yarn** versions.
 
 The environment can be set up by command:
-`./serve/install_env.sh`
+
+`yarn install`
 
 For more information about Truffle visit [https://truffle.readthedocs.io/en/latest/](https://truffle.readthedocs.io/en/latest/).
 
 ## Usage
 
-`./serve/run_testrpc.sh` - run testrpc<br />
 `./serve/run_tests.sh` - run tests
